@@ -1,5 +1,3 @@
-🛠 Tech Stack
-
 streamlit
 pandas
 numpy
@@ -7,6 +5,3 @@ scikit-learn
 joblib
 matplotlib
 seaborn
-
-📂 How to Run
-python -m streamlit run app.py
